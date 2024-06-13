@@ -6,7 +6,7 @@ object Versions {
    * Source
    */
   val javaTarget = JavaVersion.VERSION_1_8
-  const val kotlin = "2.0.0"
+  const val kotlin = "1.9.20"
 
   /**
    * Required Libraries
